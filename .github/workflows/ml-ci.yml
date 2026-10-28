@@ -44,6 +44,7 @@ jobs:
       - name: Run prediction API tests
         run: python -m unittest test_app.py -v
 
+   
       - name: Prepare release candidate
         run: |
           mkdir -p release_candidate
@@ -51,8 +52,10 @@ jobs:
           cp customer_purchase_model.pkl release_candidate/
           cp metrics.json release_candidate/
           cp requirements.txt release_candidate/
-          echo "Customer Purchase Prediction API" > release_candidate/DEPLOYMENT.txt
-          echo "Run with: python app.py" >> release_candidate/DEPLOYMENT.txt
+          cp Dockerfile release_candidate/
+          cp .dockerignore release_candidate/
+          printf "Customer Purchase Prediction API\nRun: python app.py\nEndpoint: POST /predict\n" > release_candidate/DEPLOYMENT.txt
+
 
       - name: Upload ML release package
         uses: actions/upload-artifact@v4
