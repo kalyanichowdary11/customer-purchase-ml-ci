@@ -29,7 +29,7 @@ class TestPredictionAPI(unittest.TestCase):
         response = self.client.post("/predict", json=customer)
 
         self.assertEqual(response.status_code, 200)
-        self.assertEqual(response.json["prediction_code"], 999)
+        self.assertEqual(response.json["prediction_code"], [0,1])
         self.assertIn(
             response.json["prediction_label"],
             ["Purchased", "Not Purchased"]
