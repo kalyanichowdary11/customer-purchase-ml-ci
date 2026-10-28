@@ -16,7 +16,9 @@ BASE = Path(__file__).resolve().parent
 DATA = BASE / "data" / "customer_data_500_records.csv"
 
 def train_model():
-    df = pd.read_csv(DATA)
+    df = pd.read_csv(DATA, sep=None, engine="python", encoding="utf-8-sig")
+    df.columns = df.columns.astype(str).str.strip()
+    print("CSV columns detected:", df.columns.tolist())
 
     numeric = [
         "Age", "Annual_Income",
