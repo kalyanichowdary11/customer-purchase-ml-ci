@@ -47,9 +47,8 @@ class TestMLPipeline(unittest.TestCase):
             "Marital_Status": "Single",
             "Occupation": "Engineer"
         }])
-
         prediction = model.predict(sample)[0]
-        self.assertEqual(int(prediction),[0,1])
+        self.assertIn(int(prediction), [0, 1])
 
 
 if __name__ == "__main__":
