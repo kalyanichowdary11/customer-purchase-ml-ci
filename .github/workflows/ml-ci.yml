@@ -45,7 +45,7 @@ jobs:
         with:
           name: customer-purchase-ml-artifacts
           path: |
-            customer_purchase_model.pkl
+            customer_purchase_model_missing.pkl
             metrics.json
             data/customer_data_500_records.csv
           if-no-files-found: error
