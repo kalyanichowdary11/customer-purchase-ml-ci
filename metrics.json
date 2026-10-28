@@ -1,0 +1,15 @@
+{
+    "accuracy": 0.55,
+    "training_records": 400,
+    "testing_records": 100,
+    "confusion_matrix": [
+        [
+            9,
+            32
+        ],
+        [
+            13,
+            46
+        ]
+    ]
+}
