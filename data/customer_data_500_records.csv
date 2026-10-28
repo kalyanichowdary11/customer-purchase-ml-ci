@@ -1,0 +1,501 @@
+Customer_ID	Age	Annual_Income	Spending_Score	Experience	Gender	City	Education	Marital_Status	Occupation	Purchased
+1362	38	117007	51		Female	New York	PhD	Divorced	Teacher	0
+1074	46	31938	8	11	Female	Chicago	Master	Married	Student	1
+1375	61	149473	54	3	Male		PhD	Divorced	Teacher	1
+1156	30	130448	95		Female	Los Angeles	PhD	Single	Business	1
+1105	26	134585		23	Male	Los Angeles	Bachelor	Single	Doctor	1
+1395	50	82680	63	32	Male	New York	Master	Married	Teacher	1
+1378	46	78141	1	11	Male	Houston	Master		Business	1
+1125	25	112920	41		Female		Master	Married	Business	0
+1069	21	80890	61	33	Female	Chicago	High School	Divorced		1
+1451	39	69922	93	26	Female		High School	Divorced	Student	0
+1010		93666	84	30	Male	Phoenix	PhD		Doctor	0
+1195	44	47192	77	3	Male	Phoenix		Divorced	Student	1
+1407	64	20404	43	34	Female	Houston	Bachelor	Single	Teacher	0
+1085	25	58304	78	6	Female	Houston	High School	Divorced	Doctor	1
+1372		90340	21	19		New York	Bachelor	Married	Doctor	0
+1389	52	131854	74		Female	Chicago	High School	Single	Doctor	1
+1496	65	139803	97	21	Female		Master	Single	Engineer	1
+1031	66	128761	67		Female	New York	PhD	Divorced	Business	0
+1317	53	72638	29	12	Male	Phoenix		Married		0
+1409	40		51	38		Chicago	Bachelor	Divorced	Teacher	0
+1491	18	114456	59	16	Male	New York	Master	Single	Student	1
+1492	18	73413	72	11	Male	Phoenix	Master	Single		0
+1281	45	81629	6	27	Female	Phoenix	PhD	Single	Teacher	1
+1357		98752	37			Chicago	High School	Divorced	Doctor	0
+1077	61	24000	79	20	Female	New York	High School	Divorced	Engineer	0
+1462	61	62808	94	6		Houston	High School	Married	Teacher	1
+1498	57	90390	8	19	Female		Master	Divorced		1
+1212	49	123150	73		Male	Houston	High School	Single	Student	1
+1102		114297	74		Female	Los Angeles	PhD	Single	Engineer	1
+1335	50	86203	11	9	Female	New York	Master		Engineer	0
+1476	33	101317	34	20	Male	Phoenix	Master			1
+1337	50	49703	38	29	Female	Phoenix	PhD	Married	Teacher	0
+1441	40	112193	87	17	Male	Chicago	High School		Doctor	1
+1174	49	79163	51	28	Female	Chicago	PhD	Divorced	Doctor	0
+1003	46	73222	29	13	Female	Phoenix	Bachelor	Single	Student	1
+1334	53		20	22	Female	Houston	High School	Divorced	Business	0
+1410	19	49189	54	14	Male	Phoenix	Bachelor	Single	Engineer	0
+1071	23	38071	26	36	Female	Phoenix	High School	Divorced	Student	1
+1210	41	109930	65	31	Female	Houston	High School	Single	Doctor	1
+1064	31	50977	86	5		New York	Master	Married	Teacher	0
+1385	46	81813	47	17	Female	Chicago	Master	Single	Business	1
+1094	41	23373	23	25	Male		High School	Married		1
+1486		43386	65	37	Female	Phoenix	High School	Divorced	Teacher	0
+1186	61	122795	47	34	Female	Chicago	PhD	Single	Student	1
+1034		141172	27	36	Male	New York		Single	Business	0
+1078	51	90588	47	26	Male	Los Angeles	Bachelor	Married	Engineer	1
+1001	56	23343	81	31	Female	Chicago	PhD	Divorced		0
+1012	28	138937	69		Male	Chicago	Master	Divorced	Business	0
+1416	57	124293	88	13		New York	High School	Single	Business	0
+1023	55		95	1	Female	Phoenix		Married	Engineer	1
+1073	21	92369	1	37	Female	Los Angeles	Bachelor	Divorced	Teacher	0
+1183	45	106900	97	13	Male	Los Angeles	Bachelor	Single	Business	1
+1132	54	137474	56	33	Female	Houston	PhD		Teacher	0
+1411	44		24	28	Male	Phoenix	High School	Divorced	Engineer	1
+1194	18	86703	100		Female	New York	High School	Single	Business	0
+1056	37	61975	49	21	Male	New York	Master		Business	1
+1149	56	91180	55	5	Female	New York	Bachelor	Married	Business	0
+1019	19	81389	75	18	Female	Houston		Divorced	Doctor	1
+1205	54	29348	2		Male	Phoenix	PhD	Single	Engineer	1
+1079		121042	56	30	Male	Houston	Bachelor	Single	Doctor	0
+1495	49	62318	51	15	Female	Houston	High School	Single	Doctor	0
+1263	37	64482	32	19	Male	Houston	Bachelor		Business	0
+1324	52	61430		27	Male	Houston	PhD	Divorced	Student	0
+1484	45	26941	93	24	Male	Chicago	PhD	Divorced	Student	0
+1080	53		86	5		Los Angeles	Bachelor	Single	Doctor	1
+1040	69	122756		21	Male	Los Angeles	High School	Married	Teacher	1
+1452	39	114074	30	6	Male	New York	Master	Single	Engineer	0
+1047		88385	22	16	Female	Houston	PhD	Divorced	Student	0
+1239	61	46432	64		Female	New York	High School		Doctor	1
+1392	38	82292	26	6	Male	Los Angeles	PhD		Doctor	0
+1353	47	67605	76	39		Los Angeles	Bachelor	Divorced	Engineer	0
+1342		122023	90	1		Los Angeles	PhD	Divorced	Business	1
+1278	57	59298	39	33	Male	Chicago	PhD	Single	Student	1
+1291	43	134821	94	24	Male	Phoenix	High School	Single	Engineer	1
+1318	55		8	32	Male	New York		Single	Engineer	0
+1305	36	41732		27	Male	Chicago	High School	Divorced	Business	1
+1269	37	143961	15	31	Male	Phoenix	PhD	Married	Doctor	0
+1070		86387	81	16	Female	Los Angeles	PhD	Single	Student	1
+1456	23		18	2	Female	Los Angeles	Master	Married		0
+1466	21	39758		8	Male	Houston	Bachelor	Married	Doctor	1
+1155	59	131888	24	14	Female	Chicago	High School		Student	0
+1083	65	126306	28	33	Male	Chicago	High School	Single	Business	0
+1478		98587	87	29	Male		PhD	Divorced	Business	1
+1173	30	55270	26	22	Female		Bachelor	Married	Student	1
+1322	65	88866	68	15	Female	Houston	PhD	Single	Student	1
+1091	62	128940	56	1	Male	New York	Bachelor	Divorced	Teacher	1
+1181	62	25486	19	38	Female	New York	Master	Married	Teacher	1
+1415	34	29860	70	1	Male	Los Angeles	High School	Divorced	Business	0
+1313	69	37640	88	39	Female	New York	High School	Single	Student	1
+1279	18	128492	51	10	Male	Phoenix		Divorced	Business	1
+1382	58	57892	40	0	Male	Phoenix	High School	Divorced	Engineer	1
+1473	52	112234	10	12	Female	Los Angeles	PhD	Divorced	Business	1
+1363	47	102844	29	31	Female	New York	High School	Single	Student	1
+1325		44504	2	32	Male	Los Angeles	PhD	Single	Student	0
+1432	62	65106	92	2	Male	Phoenix	PhD	Divorced	Business	1
+1348	29	123268	82	1	Female	Chicago	PhD	Divorced	Doctor	1
+1087		89449	2	16	Male	New York	High School	Single	Business	1
+1076	43	111680	52		Male	New York	Master	Single	Engineer	0
+1439	29	65543	13		Female	Phoenix	Bachelor	Divorced	Business	1
+1016	41	92789	66	22	Female	Houston	Master	Married	Engineer	0
+1250	69	109339	83	7	Female	Phoenix	PhD	Divorced	Business	1
+1434	18	37100	61	37	Female	Los Angeles	Bachelor	Single	Doctor	0
+1020	41	29435	23	35	Male	Phoenix	PhD	Divorced	Doctor	1
+1323	42	39087	76	39	Female	Phoenix	Bachelor	Divorced	Doctor	0
+1333	58		69	30	Male	Phoenix	Master	Married	Teacher	1
+1057	45	29540	78	3	Male	Phoenix	Master	Divorced	Doctor	1
+1302	26	113396	86		Female	Phoenix	Master	Married	Teacher	1
+1230	19	144097	34	36	Female	Chicago	Master	Married	Engineer	1
+1332	33	110469	27		Female	Los Angeles	PhD	Divorced	Student	1
+1133	52	134352	59	11	Female	Los Angeles	PhD	Divorced	Student	1
+1138	52	90640	21	11		New York	Master	Divorced	Engineer	1
+1424	43	52201	85	28	Male	Houston	High School	Single	Doctor	1
+1336	21	139156	74	31	Female	Phoenix	Master	Single	Engineer	0
+1026	50	98781	8	19	Female	New York	PhD	Single		0
+1465	56	39198	63		Male	Chicago	Master	Married	Business	0
+1282	42		67	28	Female	Chicago	PhD	Single	Business	0
+1248	41	144707	37	6	Male	Houston	Bachelor	Married	Business	1
+1238	19	62348	60	11	Female		Bachelor	Single	Student	1
+1118	22	31338	100		Female	Chicago		Single	Teacher	1
+1043	68	43049	82	9	Male	Chicago	Master	Married	Business	1
+1221	56	21542	95	19	Female	Houston	High School	Married	Business	0
+1177	39	84895	5	29	Female	Los Angeles	PhD	Single	Business	1
+1321	52	126357	47	18	Male	Chicago	PhD	Single	Doctor	1
+1154	43		36	11	Male	Phoenix	High School	Single	Engineer	0
+1232	40	108092	99	0	Male	New York	High School	Divorced	Business	1
+1228	66	108858	75	3	Male	Phoenix	Master		Business	1
+1418	26	70612		21	Male	Phoenix	Bachelor		Teacher	1
+1204	26	123033	44	34	Male	New York	High School	Single	Engineer	1
+1127	51	64425	52	34	Male	New York	PhD	Single	Teacher	0
+1330		31023	26	37	Male	Houston	High School	Divorced	Student	0
+1032	44	141305	96	19	Male	Phoenix	Bachelor	Married	Engineer	1
+1114	25		68	33	Male	Los Angeles	PhD	Married	Business	0
+1471		97709	3	7	Male	New York		Divorced	Business	1
+1272	69	77799	17	12	Female	Chicago	High School	Single	Business	1
+1141	54	79031	4	18	Female	Chicago	PhD	Divorced	Engineer	1
+1058	64	36364	90	25	Female	New York	Master	Divorced	Doctor	1
+1193	50	80566	11	38	Female	Chicago	Bachelor			1
+1025	38	115981	16	4	Male	Houston	Master	Married		0
+1018	39	113468	43	18	Female	New York	PhD	Divorced	Teacher	1
+1266	43	106769		16	Female	Phoenix	Master	Single	Engineer	0
+1067			63	35	Male	New York	PhD	Single	Engineer	1
+1209	61	122634	84	17	Female	Chicago	High School	Single	Student	0
+1480	47	26949	92	30	Female		Master	Married	Teacher	0
+1095	43	32161	18	28	Female	Phoenix	High School	Single	Doctor	0
+1254		137611	4	33	Male	Houston	Master	Married	Student	1
+1267	20	29435	23	23	Female	Chicago	Master	Married	Student	1
+1024		71293	75	0	Female	Phoenix	High School	Married	Business	1
+1223	20	66732		0	Male	Los Angeles	High School	Divorced	Student	0
+1262	20	35485	14		Female	Los Angeles	Master	Married	Teacher	1
+1427	42	133748	81	36	Female	Los Angeles		Married	Student	1
+1006	25	36964	56	3	Female	New York	Bachelor	Married	Student	1
+1117	50		18	1	Male	Houston	Bachelor	Divorced	Engineer	0
+1046	26	117379	61	31	Female		High School	Married	Doctor	1
+1017	20	104664	77	20	Male	Houston	Bachelor	Divorced	Teacher	1
+1463	61	108464	38	16	Male	Chicago	High School		Teacher	0
+1358	25	75284			Male	Phoenix	PhD	Married	Business	1
+1004	32	49375	4	31	Female	Houston	PhD	Single		0
+1219	69	97052	35	24	Female	Chicago	Master		Teacher	0
+1406	49	20384	17	16	Female		PhD	Single	Engineer	0
+1061	25	71991		22	Female	Houston		Single	Business	1
+1111	28	127112	13	18	Male		Bachelor		Business	0
+1319		127892	5	5	Male	Chicago	Master	Divorced	Doctor	0
+1429	30	141288	49	5		Phoenix	PhD	Married	Student	1
+1030	42	63919	25	22	Male	Chicago	High School	Married	Student	1
+1438	31	57744	96	24	Female	New York	Bachelor	Divorced	Student	1
+1472	64	57441	32	10	Male	Houston	High School	Divorced	Doctor	0
+1027	29	80403	4	10	Female	Chicago	PhD	Married	Engineer	1
+1008	56	141692	74	20	Male			Divorced	Teacher	1
+1454	69	57131	40	28	Female	Phoenix	Bachelor	Single	Business	1
+1109	25		25	35	Male	Los Angeles	Master	Married	Engineer	0
+1038	68	76573	61	33	Female	Houston	Master	Married	Doctor	1
+1158	49	61555	66	31	Female	New York		Single	Teacher	1
+1490	29	103251	87	23	Male	Houston	PhD	Divorced	Doctor	0
+1119	59	20412	86	8	Male	Houston			Teacher	1
+1115	52		10	8	Male	Chicago	High School	Married	Teacher	0
+1176	68	71934	44	30	Female		Master	Single	Student	1
+1374	34	95672	36		Male	Chicago	Master	Divorced	Engineer	1
+1182	23	28335		16	Male	Phoenix	High School	Married		1
+1145	18	81476	62	16	Female	Houston	PhD	Single	Teacher	1
+1370	36	76178	1	21		Houston	Bachelor	Single	Doctor	1
+1391	69	148778	57	11	Male	New York		Single	Student	0
+1196	69		3	28	Female	New York	Master		Business	0
+1405	67		91	3	Male	Chicago	High School	Married	Business	0
+1276	56	62918	53	13	Male	Phoenix	PhD	Single	Doctor	0
+1455	59	62944	19	23	Male	Los Angeles	Bachelor	Married		1
+1142	64	108726	94	7	Male	New York	Bachelor	Married	Doctor	0
+1366	64	142402		14	Female	Chicago	PhD	Married	Teacher	1
+1068	57	108223	48	37	Male	New York	High School	Married		1
+1211	32		63	31	Female	New York		Single	Student	1
+1169	32	92936	66	14	Female	Phoenix	Master	Single	Business	1
+1494	51		67	14	Male	New York	Bachelor	Single	Teacher	1
+1376	45	85545	87	26	Male	Chicago	High School	Married	Engineer	1
+1401	20	40384	7	25		Los Angeles	High School	Married	Business	1
+1273	58	33116	97	24	Male	Phoenix	PhD	Married	Business	0
+1110	41		17	19	Male	Chicago	Master	Single	Student	1
+1249	22	55909	5	3	Female	New York	Bachelor	Married	Engineer	1
+1146	22	64811	94	22	Female	Chicago	PhD	Married	Student	1
+1093	64	58494	3	35	Female	New York	Master	Married	Business	1
+1153	32		40	24	Male	New York	PhD	Married	Engineer	1
+1368	22	65445	11	36	Male	New York	High School	Single	Student	1
+1468	62	64238	8	21	Male	New York	Master	Single	Student	0
+1084	32	117856	87	11	Male	Phoenix	Master	Divorced	Doctor	1
+1246	34	21324	35	33	Male	New York		Single	Engineer	0
+1166	40	99459	51	21	Male	Los Angeles	Bachelor	Married	Teacher	1
+1164	47	59954	6	25	Male		High School		Business	1
+1200	56	41689	10	17	Male	Houston	High School	Divorced	Business	0
+1229	19	39065	9	17	Male	Los Angeles		Married	Doctor	0
+1075	35	55195	99	22		Phoenix	High School		Teacher	1
+1479	59			17	Male	Phoenix	PhD	Single	Engineer	0
+1359	44	77043	92	18		Phoenix	High School	Divorced	Business	0
+1251	51	39870	78	19		Houston	PhD	Divorced	Teacher	1
+1120	56	27543		39	Female	Phoenix	Bachelor	Married	Engineer	0
+1311	50	134065	47	28	Female	New York	PhD	Married	Engineer	1
+1300	54	40559			Female	Los Angeles	PhD	Married	Business	0
+1256	33	46790	42	2	Female	Houston	PhD	Divorced	Teacher	1
+1355	55		68	33	Female	Los Angeles	PhD	Married	Teacher	0
+1400	48	66540	2	22	Female	Houston	High School	Divorced	Teacher	0
+1226	66	82856	50	13	Female	Los Angeles	PhD	Divorced	Business	1
+1354	55	141790	100		Female	Houston	Master	Married	Doctor	1
+1235	50	46962	40	14	Male	Chicago	Bachelor	Divorced	Doctor	1
+1383	54	21015	15	21	Female	Phoenix	Master	Divorced	Student	0
+1275	57		78	3	Male	Phoenix	Master	Divorced	Business	0
+1037	64	82752		8	Male	Phoenix	Bachelor	Married	Engineer	0
+1197	30	104076	33	21		Houston	Bachelor	Divorced	Engineer	1
+1140	52	54911	70	23	Female		Master	Single	Teacher	0
+1365	45	54349	40		Female	Chicago	PhD	Single		0
+1245	28	57080	30	12		Houston	PhD	Divorced	Engineer	1
+1440	68	128319	94		Male		PhD	Divorced	Business	1
+1287	59	53591	64	11	Male	Los Angeles	PhD	Single	Business	1
+1060	61	47663	27	33		Los Angeles	Master	Married		0
+1112	68	40358	84	34	Male	Chicago	Master	Divorced	Engineer	1
+1090	33	40764	59	27	Male	New York	Master	Married	Student	1
+1437		90080	1	34	Female	Houston	PhD	Married	Doctor	1
+1007	38	133429	17	36	Male	Los Angeles	Bachelor	Single	Teacher	0
+1361	51	55547	9	6	Female	Houston		Married	Student	1
+1347	65	47355	62	38	Male	Phoenix	Master	Married	Teacher	0
+1339	38	66427	72	30	Female	Los Angeles	PhD	Married	Doctor	1
+1159		66959	84	9	Male	New York	PhD	Divorced	Business	0
+1151	26	132856	3	24	Male	Phoenix		Divorced	Engineer	0
+1178	45	52307	70	38	Male	Chicago	PhD	Married	Doctor	1
+1394	40	24158	35	10	Male		Bachelor	Single	Doctor	0
+1185	61	141954	12	23	Female	Los Angeles	PhD	Single		1
+1450	42	63125	45	14	Female	Chicago	Bachelor	Divorced	Doctor	0
+1011	28	105067	88		Female	New York	PhD	Single	Student	0
+1381	52	115084	55	9	Female	Chicago	PhD	Single	Business	1
+1104	24		57	33		Chicago		Single	Student	0
+1082	48	123691	90	39	Female	Chicago	Bachelor	Married		1
+1039	61	79101	51	34	Male	Chicago	PhD	Divorced	Business	1
+1315	66	58413	56	39	Female	Chicago	Bachelor	Single	Business	1
+1168	62	83932		13	Female	Houston	Master	Married	Teacher	0
+1470	69	59764		23	Female	Phoenix	High School	Divorced	Doctor	0
+1297	65	54620	97	37	Female	Houston	Master	Divorced	Student	1
+1475	69	79494	83	7	Male	Los Angeles		Divorced	Student	1
+1199	20		50	12	Male	Phoenix	PhD		Student	0
+1298	29	123214	27	7	Male		Bachelor	Single	Student	1
+1417	50	100642	33	19	Female	Houston	PhD	Divorced	Student	1
+1147			95		Male	Phoenix	Bachelor	Single	Student	1
+1393		43833	41	28	Male	Houston	Bachelor	Married		1
+1148	31	40150	24	15	Female	Houston	Master	Single	Engineer	1
+1448	39	78017	29	28	Male	Los Angeles	Master	Single	Engineer	0
+1288	52	102848	15	8	Male	New York		Divorced	Doctor	0
+1124		109084	42	39	Male	Chicago		Divorced	Business	1
+1369	65	25713	23		Male	Houston	PhD	Married	Doctor	1
+1097	62		99	10	Female	Houston	High School	Single	Teacher	1
+1144	20	52479	62	20	Female	Houston	Bachelor	Married	Student	0
+1240	43	103285	93	36	Male	Los Angeles		Divorced	Teacher	1
+1443		132734	56	15	Male	Houston	PhD	Divorced	Teacher	1
+1098	58	143633	15	39	Female	Chicago	PhD	Single	Engineer	0
+1408	39		59	12		New York	Bachelor	Married	Doctor	0
+1123		80692	83	24	Female	New York	PhD	Single	Business	1
+1184	45	146020	20	30	Female	Chicago	Bachelor	Single	Student	0
+1203	44	146174	10		Male	New York	High School	Married	Student	1
+1247	55	111267	85	24	Male	Houston	Bachelor	Single	Doctor	0
+1306	65	148675	74	4	Female	Phoenix	Bachelor	Divorced	Business	1
+1299	22	148148	55	4	Male	Chicago	High School	Single	Business	1
+1352	63	124346	43	16	Male	Los Angeles	Master	Married	Student	1
+1387	63	120497	53	28	Male	Chicago	High School	Married	Business	0
+1396	20	40309	25	5		Chicago	Master	Single	Student	1
+1285		48016	72	24	Female	Houston	Bachelor	Divorced	Teacher	0
+1126	29	143555		38	Female	Houston	PhD	Single	Doctor	0
+1303	58	81642	66	36	Female	Houston		Married		1
+1224		70343	62	29	Female	Chicago	High School	Divorced	Teacher	0
+1419	60	43574			Male	Phoenix	Bachelor	Divorced	Teacher	0
+1220	29	64261	94	38		Phoenix	High School	Divorced	Engineer	0
+1130	40	55735	98	29	Female	Los Angeles	High School	Divorced	Engineer	1
+1421	56	89172	22	2	Female	Chicago	Master	Divorced	Teacher	1
+1290	33	131732	33		Female	Los Angeles	High School	Married	Doctor	1
+1445	19	144454	62	7	Male	Los Angeles	Bachelor	Single	Engineer	0
+1377	47	104791	57	16	Male	Phoenix		Married	Teacher	1
+1292	65	87641	27		Female	Houston			Doctor	0
+1356	62	58088	5	23	Male		Bachelor	Divorced		0
+1295	19		38	23			Bachelor	Divorced	Teacher	0
+1397		26970	90	14	Male	Houston	Master	Divorced		0
+1341	37	81529		35		Phoenix	Bachelor	Single	Business	1
+1113	34	23267	25	16		New York	High School	Divorced	Student	0
+1180	59	80921	68	17	Male	Houston	PhD	Divorced	Engineer	0
+1308		50354		16	Male	Phoenix	Master	Divorced	Engineer	1
+1433	37	73932	63	0	Male	New York	Bachelor	Single		1
+1488	40	81886	67	10	Female	Chicago	Master	Single	Student	0
+1482	34		50	31	Female		Bachelor	Married	Doctor	0
+1423	59	24809	28	27	Male	Phoenix	PhD			0
+1234	49	74693		8	Male	Los Angeles	Bachelor		Business	1
+1312	41		100	2	Female	New York		Divorced	Doctor	0
+1165		67280	94	20	Male	Chicago	PhD	Single	Engineer	1
+1137	44		22	9	Male		PhD	Divorced	Student	0
+1198	58	109780	6		Male	New York	High School	Married	Business	1
+1259	23	75129	40	4	Female	Houston	PhD	Single	Engineer	0
+1233		146116	35	14	Female	Chicago	High School	Married	Engineer	1
+1116	52	58513	67	25	Male	Houston	PhD	Divorced	Engineer	1
+1121	58	125891	8	16	Male	Phoenix	PhD	Single	Teacher	1
+1350	39	24835	97	12	Male	Los Angeles	High School		Business	1
+1225		59081	60	2	Female	Houston	Bachelor	Single	Engineer	1
+1403	63	95880	91	33	Male	Phoenix	High School	Single	Student	1
+1398	42	92474	75	31	Female	Houston	PhD		Engineer	1
+1128	50	58756	26	2	Female	Houston	High School	Divorced	Student	1
+1286	47	43960	42	33	Female	New York	PhD	Divorced	Doctor	1
+1412	59	38384	25	28	Female	Phoenix	Master	Divorced	Student	1
+1108	61	96797	44	32	Female	Chicago	Bachelor		Doctor	1
+1371	21	69407	46	3	Male	New York	Bachelor	Single	Student	1
+1326	46	27114	27	12	Female	Chicago	PhD	Married	Doctor	0
+1134	61	103042	70	18	Female	Phoenix	Bachelor	Married	Engineer	1
+1453	66	52049	16	2		Chicago	Master	Single	Student	1
+1045	38	118116	42	22	Female	Chicago	Master	Divorced	Student	1
+1461	25	57626	92	13	Male	Houston	Bachelor	Married		1
+1066	53	69115	94	20	Male	Phoenix	Bachelor	Single		1
+1284	40	119835		2	Male	Phoenix	Master	Single	Engineer	0
+1086	31		88	9	Female	Phoenix	Master		Business	1
+1243	49	77854	14		Male	Houston	Bachelor	Divorced	Student	1
+1187	37	109112	1	33	Male	Los Angeles	PhD	Single	Doctor	1
+1384	41	144704	21	25	Female	Houston	High School	Married	Doctor	1
+1160	66	20728		15	Male	Los Angeles	Bachelor	Married	Student	0
+1013	41	87215	34	9	Male	Phoenix	High School	Married		0
+1036	32	111747	32	29	Female	Los Angeles	High School	Married	Doctor	1
+1029	61	115435	56	2	Female	Chicago	PhD	Divorced		1
+1171	46	56939	75	8	Female	Chicago	Master	Divorced	Business	1
+1143	31	27357	75	30	Female	Phoenix	PhD	Married	Student	1
+1399	59	106704	38	10	Female		Master	Divorced	Student	0
+1343	24	104665	46	13	Male	Los Angeles	PhD	Single		1
+1222	19	41677		4	Female	Phoenix	PhD	Single	Business	0
+1096	42	117532	38	20	Female	New York		Divorced	Doctor	0
+1052	67	130226	12	1	Female		Bachelor	Divorced	Engineer	1
+1241	49	126995	72	5	Male	Phoenix	High School	Divorced	Engineer	0
+1485		45934	8	32	Female	Phoenix	PhD	Divorced	Engineer	0
+1379	63	43793	63	21	Male	Houston		Single	Doctor	1
+1179	19	74098		34	Male	Los Angeles	Master	Married	Engineer	0
+1042	54	124185	5	16	Female	Houston	PhD	Divorced	Teacher	0
+1499	62		34		Female	Chicago	Master	Married	Business	1
+1422	46	30916	26	16	Female	Phoenix	PhD	Divorced	Doctor	1
+1207	68		40	12	Male	Chicago	High School	Single	Student	1
+1283	67	119518	7	8	Female	Phoenix	High School	Married	Engineer	0
+1255		123605	89	25	Female	Houston	Bachelor	Married	Business	1
+1413		80100	71	10		Houston	High School	Divorced	Engineer	1
+1005		29662				Chicago	Bachelor	Married	Doctor	1
+1257	50	138874	89	5	Male	Chicago	PhD	Married	Engineer	1
+1449	68	81877	49	7	Male	Chicago	PhD	Married	Engineer	0
+1101	62	113008	28	38	Male	Houston	Bachelor	Single	Engineer	1
+1227	34	113105	78	29	Male	Los Angeles	Bachelor	Married		1
+1430	24	58765	20	18	Female	Los Angeles	High School		Teacher	0
+1214	41	68136	9	28	Male	Houston	Master	Divorced	Engineer	1
+1172	53		8	7	Male	Houston	Master	Single	Engineer	1
+1099	46	120386	64	10		Houston	High School	Single	Business	0
+1293	69	56395	36	10	Male	Phoenix	Bachelor	Divorced	Teacher	1
+1216	69	102873	15	15	Male	Houston	High School	Single	Doctor	0
+1062	64	77679	26	36	Female	Los Angeles	PhD	Single	Doctor	0
+1048	35	146131	21	16	Female	Chicago	Bachelor	Single		1
+1033			67	4	Male	Chicago	Master	Divorced	Engineer	1
+1268	36	23709	63	2	Male	Los Angeles	High School	Divorced	Doctor	1
+1328	63	119657	36		Female	New York	High School	Divorced	Student	0
+1201	23	31174	5	32	Female		Master		Teacher	1
+1447	40	134937	30	16	Female		High School	Married	Doctor	1
+1028	39	49124	4	1		New York	Master	Divorced	Student	1
+1425	52	73330	49	20	Female		Master	Divorced	Student	1
+1231	45	103460	76	24	Female	Chicago	Bachelor	Single	Business	1
+1261	46	114246	39	8	Female	Los Angeles	PhD	Divorced	Student	0
+1289	24	123333	29	14		Houston	Master	Single	Engineer	0
+1163	21	86234	79	22	Male		High School	Single	Student	0
+1426	67	33456	71	15	Female	Chicago	Bachelor	Married	Business	1
+1139	18	85510			Male		Master	Single	Business	1
+1063	52	124182	47	10	Female	Chicago		Single	Teacher	0
+1136	39	37955	53	16			Bachelor	Married	Doctor	0
+1129	65	38888	64	36	Female	Houston	PhD	Divorced	Teacher	1
+1477	30	85215	97	17	Female	Chicago	PhD	Single		1
+1009	36	79638	17	13	Male	Chicago	Master	Single	Doctor	0
+1327	35	98859	95	24	Male	Los Angeles	PhD	Married	Doctor	1
+1464		73871	51	19	Male	Chicago	PhD	Divorced	Student	1
+1065	34	114704	56	17	Male	Phoenix	High School	Single	Student	1
+1301	49	113045	68	17	Male	New York	Bachelor	Married		0
+1015	57		53	32	Female	Houston	Bachelor	Single		1
+1157	68	34397	6	25	Male		PhD		Teacher	1
+1041	20		21	23	Male	Houston	Master	Single	Teacher	0
+1380	23	76570		16	Female	Los Angeles	Master	Single	Student	0
+1469	49	21252	29	1	Male	Chicago	Master	Married	Business	0
+1404	41		34	28	Male	Los Angeles	PhD		Doctor	1
+1217	66	120843	24	9	Female		Master	Single	Teacher	1
+1280		100219	70	2	Female	Phoenix	Master		Doctor	1
+1435	25		49	14		Los Angeles	Master	Single	Engineer	0
+1431	53	54816	86	4	Male	Phoenix	High School	Single	Doctor	1
+1338	31	29337	6	38	Male	New York	Bachelor	Single	Student	0
+1237		33807		3		New York	Bachelor	Single	Teacher	1
+1208	59	94460	2	12	Female	Phoenix	High School	Single		1
+1213	49	92267	17	38	Male	Phoenix	PhD	Married	Doctor	0
+1296	18	42700		14	Male	Chicago	High School	Single	Teacher	0
+1458	60	126884	78		Female	New York	Master	Single	Student	1
+1252	23	54578	26		Female	Houston	Master	Single	Student	1
+1489		95745		21	Female	Houston	Master		Business	1
+1487	43	145362	57	7	Male	Phoenix	PhD	Divorced	Teacher	1
+1304	52	96539	10	12	Female	Phoenix	PhD	Divorced	Engineer	0
+1351	39	40159	60	26	Male	Houston	Master	Single	Teacher	1
+1270	49	50355	97	34	Male		PhD	Married	Business	1
+1202		108461			Female	Los Angeles	Master	Divorced	Teacher	0
+1162		139180	4	16	Female	Houston	Master	Single	Engineer	0
+1044	24	99605	92		Female	New York	Master	Divorced	Student	0
+1218	66	92592	38	29	Male	Houston	Bachelor	Divorced	Engineer	1
+1402	57	38017	82	33	Male	New York	Master	Married	Student	1
+1191	42	125955		25	Male	Chicago	Bachelor	Divorced	Teacher	0
+1310	41	130008	31			New York	Master		Doctor	1
+1260	33	113714	72	22		Phoenix	Bachelor	Divorced	Engineer	1
+1106	41	35305	86	21	Male	Houston	Bachelor	Single	Doctor	1
+1054	43	29823	46	38	Male	Houston	PhD	Divorced	Doctor	1
+1390	50	132816	52	34	Female			Single	Teacher	1
+1002	69	33500	5		Female	New York	PhD	Single		0
+1442	32	56187	51	14	Female		PhD	Married	Teacher	1
+1483	36	93553	7	10	Female	Los Angeles	High School	Divorced	Teacher	1
+1050	42	85417	1	8	Female	Chicago	High School	Divorced	Teacher	0
+1420		43524	63	26	Female	Chicago	Bachelor	Married	Engineer	1
+1081	31		14	26	Male	Houston	High School		Business	1
+1206	50	43714	13	29	Male	Phoenix		Divorced	Doctor	0
+1035	33	114758	93	37	Male	Chicago	Master	Single	Teacher	1
+1264	53	106188	51		Male	Phoenix	Master	Single	Teacher	0
+1428	41	76397	84	19	Female	Houston	PhD	Single	Business	1
+1367	50	138012	86	29	Male	Los Angeles	Master	Married	Teacher	0
+1092	35		7	0	Male	Los Angeles	Bachelor	Divorced	Doctor	0
+1340	65	141507	23	17	Female		Bachelor	Married	Teacher	1
+1474	57	73682	74	16	Male	Los Angeles	Bachelor	Single	Student	0
+1053	26	120793	90		Male	Los Angeles	PhD	Single	Doctor	1
+1346	50	53307	13	11	Female	Houston	Bachelor	Single	Business	1
+1265	36	24748	38	17	Male	Phoenix	PhD	Married	Student	1
+1242	23	111792		38	Male	New York	High School	Single	Doctor	0
+1014	53	89042		6	Female	Chicago	Master	Divorced	Engineer	1
+1316	25	148142	15	26	Female	Houston	Master	Divorced	Engineer	0
+1089	38	109643	14	20	Male	Los Angeles	Bachelor	Single	Business	1
+1388	48	28415	9	11	Female	New York	Bachelor	Single	Business	0
+1274	50	45470		8	Male	New York	Bachelor	Divorced	Doctor	0
+1167	56		62	6	Female	Los Angeles	High School	Single	Doctor	0
+1329	35	30975	36	26	Male	New York	PhD	Divorced	Teacher	0
+1493	64	76800		31	Female	Houston	PhD	Single	Business	1
+1135	57	105999	33	36	Female	Houston	Bachelor	Married	Doctor	0
+1307	33	111362	97	12	Female	Chicago			Engineer	1
+1481		127825	32	37	Male	Houston	Master	Divorced	Business	1
+1320	37	130133	29	23	Female	Chicago	Master	Single	Teacher	1
+1244	21	60262	60	10	Male	Los Angeles		Married		1
+1055	19	80160	34	8	Male	Chicago	PhD	Divorced	Business	1
+1364	50	47532	78	33	Female		PhD	Divorced	Doctor	1
+1051	31		5	39	Female	Phoenix	High School	Married	Doctor	1
+1457	32	93963	1	19	Female	Chicago	High School	Married	Teacher	0
+1175	24	102637		17	Female	Chicago	PhD	Single	Student	0
+1446	49	34489	32		Female	New York		Divorced	Student	1
+1190	45	107508	64	39		Chicago	High School	Divorced	Doctor	1
+1497	42	90173	92	27	Female	Los Angeles	Bachelor	Divorced	Engineer	1
+1188	47	117203	90		Male	Chicago	Bachelor	Single	Engineer	1
+1170	60		79	6	Female	Houston	Bachelor	Married	Engineer	0
+1059	24	24611	45	28	Female	Phoenix	Bachelor	Married	Doctor	1
+1049	21	60158		13	Female	New York	High School	Single	Teacher	1
+1345	34	51921	90	28	Male	Phoenix	PhD	Married	Teacher	1
+1236	18		64	23	Female		Bachelor	Divorced	Business	0
+1253	39	92124	62	9	Male	Phoenix	High School	Married	Business	0
+1022		64078	80	17	Female	Los Angeles	Bachelor	Married	Teacher	0
+1314	28	72528	52	33	Male	New York	Master	Married	Business	0
+1460	50	44285	66	29	Male	New York	PhD		Business	1
+1161	69	70517	75	6	Female	Los Angeles	Bachelor	Divorced	Doctor	1
+1277	35	72224	51	36	Male	Chicago	Bachelor	Divorced	Engineer	0
+1444	51	27239	83	26		Phoenix	Bachelor	Married	Engineer	1
+1192	56	138324		22	Male	New York	High School	Divorced	Business	1
+1386	66	47712		13	Female	Los Angeles	High School	Single	Student	1
+1294		131276	29	33	Male	Chicago		Married	Student	1
+1414	43		52	31	Male	Los Angeles	PhD	Single	Teacher	1
+1344	20	125787	12	12	Female	New York	Bachelor	Single	Business	1
+1258		45289		4	Male	Phoenix	Master	Single	Teacher	1
+1309	37	33843	13	39	Female	New York	Bachelor	Divorced	Doctor	1
+1150	44	63286	9		Female	Chicago	High School	Married	Teacher	0
+1131	41		59	37	Female	Phoenix	Bachelor	Married	Business	1
+1152	32	88450	31	17	Female	Chicago	Bachelor	Divorced	Business	0
+1360	44	145388	31	29	Female	Chicago		Married	Teacher	0
+1100	32	47350		35	Female	Phoenix	High School	Divorced	Engineer	0
+1373	66	70990	90	31		New York	Bachelor	Single	Business	0
+1088	57	102986	26	25	Female	Houston		Married		0
+1459	54	145917	47	24	Female	Phoenix	PhD	Divorced	Teacher	0
+1331	52	41447	43	6	Male	Phoenix	High School	Divorced	Business	0
+1215	58	43625	75	28	Male	Houston	Bachelor	Married		0
+1467	23	35254		37	Female	New York	Master	Divorced	Student	1
+1122	45	53496	40	0	Male	Phoenix	PhD	Married	Doctor	0
+1500	18	142418	35	9	Female	Houston	High School		Student	0
+1021	61	74340		28	Female	Chicago	Bachelor	Divorced	Engineer	0
+1189	28	31130	14	36	Female	Houston	High School	Single	Business	0
+1072	59	79275	36	24	Male	Chicago	Bachelor	Single	Student	0
+1107	18	95353		4	Female	Phoenix	PhD	Divorced	Engineer	1
+1271	24	75771			Male	Chicago	Master	Single	Student	1
+1349	68	147016	89	31	Female	Houston	Master	Divorced	Engineer	1
+1436		41949	71	33	Female	Phoenix	PhD	Single	Doctor	1
+1103	42	45351		34	Female	Phoenix	High School	Single	Doctor	1
