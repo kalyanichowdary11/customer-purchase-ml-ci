@@ -37,9 +37,31 @@ jobs:
       - name: Check ML quality gate
         run: python quality_gate.py
 
+      
       - name: Run automated ML tests
         run: python -m unittest discover -v
-      
+
+      - name: Run prediction API tests
+        run: python -m unittest test_app.py -v
+
+      - name: Prepare release candidate
+        run: |
+          mkdir -p release_candidate
+          cp app.py release_candidate/
+          cp customer_purchase_model.pkl release_candidate/
+          cp metrics.json release_candidate/
+          cp requirements.txt release_candidate/
+          echo "Customer Purchase Prediction API" > release_candidate/DEPLOYMENT.txt
+          echo "Run with: python app.py" >> release_candidate/DEPLOYMENT.txt
+
+      - name: Upload ML release package
+        uses: actions/upload-artifact@v4
+        with:
+          name: customer-purchase-ml-release
+          path: release_candidate/
+          if-no-files-found: error
+          retention-days: 7
+
       - name: Upload validated ML artifacts
         uses: actions/upload-artifact@v4
         with:
@@ -50,4 +72,5 @@ jobs:
             data/customer_data_500_records.csv
           if-no-files-found: error
           retention-days: 7
+
 
